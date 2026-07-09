@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.telegram</groupId>
         <artifactId>Bots</artifactId>
-        <version>10.0.0</version>
+        <version>10.0.0-fix1</version>
     </parent>
 
     <artifactId>telegrambots-webhook</artifactId>
